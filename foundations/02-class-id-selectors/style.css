@@ -1,22 +1,19 @@
-* {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
 .alpha {
-    background-color: pink;
-    font-size: 20px;
+    background-color: rgb(248, 179, 191);
+    font-family: verdana,sans-serif;
 }
 
 .alpha-beta {
-    font-size: 50px;
+    font-size: 24px;
 }
 
 #uno {
-    color: royalblue;
-    font-size: 60px;
+    color: #0000ff;
+    font-size: 36px;
 }
 
 #dos {
-    background-color: limegreen;
+    background-color: rgb(86, 228, 86);
     font-weight: bold;
-    font-size: 40px;
+    font-size: 24px;
 }
